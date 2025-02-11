@@ -1,0 +1,53 @@
+p img{
+    width: 30px;
+}
+
+h1 img {
+    width: 40px;
+}
+
+li img {
+    width: 20px;
+}
+
+header {
+    background-color: #E0FFFF;
+    padding: 10px;
+}
+
+main {
+    background-color: #F0F8FF;
+    padding: 5px;
+}
+
+footer {
+    background-color: #E0FFFF;
+    padding: 5px;
+}
+
+h1 {
+    font-family: 'Courier New';
+    color: #00008B;
+}
+
+h3 {
+    font-family: Cambria;
+    color:#191970;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium';
+    color:#191970;
+}
+
+h5 {
+    background-color: white;
+    color: #191970;
+    text-decoration:underline;
+    font-family: 'Franklin Gothic Medium';
+}
+
+p {
+    color: #191970;
+    font-family: 'Franklin Gothic Medium';
+}
